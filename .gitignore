@@ -1,0 +1,15 @@
+.yardoc/
+*.rdb
+coverage/
+.DS_Store
+.bundle/
+log/*.log
+*.log
+pkg/
+doc/
+test/dummy/db/*.sqlite3
+test/dummy/log/*.log
+test/dummy/tmp/
+.rbx/
+spec/javascripts/generated/
+tmp/rspec_guard_result
